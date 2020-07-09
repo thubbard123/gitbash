@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+    <ProjectFile Source="Target/DowngradeTest.flprj" Target="Target/DowngradeTest.flprj" />
+</LingoProject>
